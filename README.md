@@ -27,6 +27,5 @@ I am trying to build long-term business relationships by helping its clients lev
 
 In the past, I have completed many blockchain projects.
 Especially, I have rich experience and good knowledge in developing DeFi & NFT Marketplace and Game projects on the Ethereum, BSC, Solana.
-If you want to create blockchain project in this field, please contact me. =D
-
+If you want to create blockchain project in this field, please contact me. 👍
 Thanks for spending your valuable time.
