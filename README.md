@@ -1,5 +1,5 @@
 Hello Bro! Okay, Let's start!
-   - I am a talented Blockchain developer with 5+ years of experience in blockchain and have rich experience in this field.
+   - I am a talented Blockchain developer with 3+ years of experience in blockchain and have rich experience in this field.
    - I have completed many DeFi, NFT Marketplace and Game projects using Solidity, Rust program language, Cryptocurrency Exchange and wallet using API.
 
 ✅ Blockchain
