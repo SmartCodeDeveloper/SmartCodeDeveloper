@@ -18,6 +18,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=smartcodeblockchaindev&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 
+<div align="center">
 ### GitHub Contributions
-    
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=smartcodeblockchaindev)
