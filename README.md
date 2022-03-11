@@ -1,6 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I warmly welcome you!
-   - I am a talented Blockchain developer with 3+ years of experience in blockchain and have rich experience in this field.
-   - I have completed many DeFi, NFT Marketplace and Game projects using Solidity, Rust program language, Cryptocurrency Exchange and wallet using API.
+   - I am a talented Blockchain developer with 3+ years of experience, and have good experience in this field.
+   - Especially, I have specialized the ICO, IDO, DeFi, DEX, DAO, NFT minting website and marketplace, NFT card and casino games on Ethereum, BSC and Solana.
+   - I have completed a lot of ICO, IDO, DeFi, NFT Marketplace and Game projects using Solidity, Rust program language, Truffle, Hardhat, Anchor.
 
 ✅ Blockchain
 -  Blockchain, Ethereum, Binance Smart Chain, Solana, Near, DeFi, NFT Marketplace and Game, Smart Contract, Solidity, Rust, Python, Web3.js, Ethers.js, ERC20, ERC721, ERC1155, BEP-20, BEP-721, BEP-1155  Cryptography
