@@ -7,6 +7,8 @@
 -  Ethereum, Smart Contract, Solidiity, Web3.js, ERC20, ERC721, ERC1155, Openzeppelin, Truffle, Hardhat.
 -  Binance Smart Chain, Smart Contract, Solidity, Web3.js, BEP20, BEP721, BEP1155
 -  Solana, Program, Rust, SPL Token, Anchor, Metaplex, Candy Machine
+-  Uniswap Fork, Pancakeswap Fork, Olympus Dao Fork
+-  Bigchaindb, Graphprotocol, Crypto payment Integration
 
 ✅ Web
 -  MERN stack, Javascript/ Typescript, Next, Nuxt, Rest API, GraphQL, Mysql, MongDB, PostgreSQL
