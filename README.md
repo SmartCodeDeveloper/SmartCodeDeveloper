@@ -4,10 +4,12 @@
    - I have completed a lot of ICO, IDO, DeFi, NFT Marketplace and Game projects using Solidity, Rust program language, Truffle, Hardhat, Anchor.
 
 ✅ Blockchain
--  Blockchain, Ethereum, Binance Smart Chain, Solana, Near, DeFi, NFT Marketplace and Game, Smart Contract, Solidity, Rust, Python, Web3.js, Ethers.js, ERC20, ERC721, ERC1155, BEP-20, BEP-721, BEP-1155  Cryptography
+-  Ethereum, Smart Contract, Solidiity, Web3.js, ERC20, ERC721, ERC1155, Openzeppelin, Truffle, Hardhat.
+-  Binance Smart Chain, Smart Contract, Solidity, Web3.js, BEP20, BEP721, BEP1155
+-  Solana, Program, Rust, SPL Token, Anchor, Metaplex, Candy Machine
 
 ✅ Web
--  MERN stack, Laravel, CodeIgniter, Python, Django, Express, VueJS, Typescript,  PHP,  MYSQL, HTML, CSS, Golang.
+-  MERN stack, Javascript/ Typescript, Next, Nuxt, Rest API, GraphQL, Mysql, MongDB, PostgreSQL
 
 ✅ Mobile
 -  Native iOS/Android, Hybrid  with Ionic, Cordova, React Native, Flutter, Xamarin.
