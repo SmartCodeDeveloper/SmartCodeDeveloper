@@ -21,4 +21,3 @@
 ### GitHub Contributions
     
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=smartcodeblockchaindev)
-Thanks for spending your valuable time.
