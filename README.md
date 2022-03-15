@@ -11,7 +11,7 @@
 -  Bigchaindb, Graphprotocol, Crypto payment Integration
 
 ✅ Web
--  MERN stack, Javascript/ Typescript, Next, Nuxt, PHP, Laravel, CodeIgniter, Rest API, GraphQL, Mysql, MongDB, PostgreSQL
+-  MERN stack, Javascript, Typescript, Vue, Next, Nuxt, PHP, Laravel, CodeIgniter, Rest API, GraphQL, Mysql, MongDB, PostgreSQL
 
 ✅ Mobile
 -  Native iOS/Android, Hybrid  with Ionic, Cordova, React Native, Flutter, Xamarin.
