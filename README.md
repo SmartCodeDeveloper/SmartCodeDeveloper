@@ -14,27 +14,27 @@
 -  Ethereum, Smart Contract, Solidiity, Web3.js, Truffle, Hardhat.
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=smartcodeblockchaindev&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=smartcodedeveloper&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 
 <div align="center">
     
 ### GitHub Contributions
     
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=smartcodeblockchaindev)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=smartcodedeveloper)
 
 ### My Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=smartcodeblockchaindev&count_private=true&show_icons=true&theme=ayu-mirage)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=smartcodedeveloper&count_private=true&show_icons=true&theme=ayu-mirage)
 <br/>
 ### Most Used Langauges    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smartcodeblockchaindev&layout=compact&theme=ayu-mirage&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smartcodedeveloper&layout=compact&theme=ayu-mirage&langs_count=8)
 
 <div>
-    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=smartcodeblockchaindev.smartcodeblockchaindev" />
-    <img align="right" src="https://img.shields.io/github/followers/smartcodeblockchaindev?label=Follow&style=social" />
+    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=smartcodedeveloper.smartcodedeveloper" />
+    <img align="right" src="https://img.shields.io/github/followers/smartcodedeveloper?label=Follow&style=social" />
 </div>
 <h1 align="center"></h1>
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=smartcodeblockchaindev&theme=github&count_private=true" /> 
+ <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=smartcodedeveloper&theme=github&count_private=true" /> 
 <h1 align="center"></h1>
 </br>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
