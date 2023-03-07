@@ -29,8 +29,7 @@
 ### Most Used Langauges    
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smartcodeblockchaindev&layout=compact&theme=ayu-mirage&langs_count=8)
 
-
-![](https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;Ethereum%20Expert;BSC%20Expert;Solana%20Expert;3%2B%20years%20of%20Blockchain%20experience;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+![](https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;MERN Stack%20Expert;Shopify%20Expert;Solidity & Web3%20Expert;5%2B%20years%20of%20Web development%20experience;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
 <div>
     <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=smartcodeblockchaindev.smartcodeblockchaindev" />
@@ -57,7 +56,6 @@
     </tr>
     <tr>
         <td><img src="https://img.icons8.com/color/2x/typescript.png" title="TypeScript" width="100" alt="TypeScript"></td>
-        <td><img src="https://img.icons8.com/color/2x/tensorflow.png" title="TensorFlow" width="100" alt="TensorFlow"></td>
         <td><img src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js" width="100" alt="node.js"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" title="Laravel" width="100" alt="Laravel"></td>
         <td><img src="https://img.icons8.com/color/2x/django.png" title="Django" width="100" alt="Django"></td>
