@@ -41,20 +41,21 @@
 <table>
     <tr>
         <td><img src="https://img.icons8.com/ios/452/shopify.png" title="Shopify" width="100" alt="Solidity"></td>
-        <td><img src="https://img.icons8.com/ios/452/solidity.png" title="Solidity" width="100" alt="Solidity"></td>
-        <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" title="Rust" width="100" alt="Rust"></td>
+        <td><img src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js" width="100" alt="node.js"></td>
+        <td><img src="https://img.icons8.com/nolan/2x/javascript.png" title="JavaScript" width="100" alt="JavaScript"></td>
+        <td><img src="https://img.icons8.com/color/2x/typescript.png" title="TypeScript" width="100" alt="TypeScript"></td>       
         <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="100" alt="React.js"></td>
         <td><img src="https://img.icons8.com/color/2x/angularjs.png" title="Angular" width="100" alt="Angular.js"></td>
         <td><img src="https://img.icons8.com/color/2x/vue-js.png" title="Vue" width="100" alt="Vue.js"></td>
         <td><img src="https://img.icons8.com/color/2x/html-5.png" title="HTML5" width="100" alt="HTML5"></td>
         <td><img src="https://img.icons8.com/color/2x/css3.png" title="CSS3" width="100" alt="CSS3"></td>
         <td><img src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap" width="100" alt="Bootstrap"></td>
-        <td><img src="https://img.icons8.com/color/2x/sass.png" title="Sass" width="100" alt="Sass"></td>
+       
     </tr>
     <tr>
-       <td><img src="https://img.icons8.com/nolan/2x/javascript.png" title="JavaScript" width="100" alt="JavaScript"></td>
-        <td><img src="https://img.icons8.com/color/2x/typescript.png" title="TypeScript" width="100" alt="TypeScript"></td>
-        <td><img src="https://img.icons8.com/color/2x/nodejs.png" title="Node.js" width="100" alt="node.js"></td>
+        <td><img src="https://img.icons8.com/ios/452/solidity.png" title="Solidity" width="100" alt="Solidity"></td>
+        <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" title="Rust" width="100" alt="Rust"></td>
+        <td><img src="https://img.icons8.com/color/2x/sass.png" title="Sass" width="100" alt="Sass"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" title="Laravel" width="100" alt="Laravel"></td>
         <td><img src="https://img.icons8.com/color/2x/django.png" title="Django" width="100" alt="Django"></td>
         <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="Graphql" width="100" alt="Graphql"></td>
