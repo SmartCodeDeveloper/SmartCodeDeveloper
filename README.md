@@ -33,10 +33,7 @@
     <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=smartcodedeveloper.smartcodedeveloper" />
     <img align="right" src="https://img.shields.io/github/followers/smartcodedeveloper?label=Follow&style=social" />
 </div>
-<h1 align="center"></h1>
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=smartcodedeveloper&theme=github&count_private=true" /> 
-<h1 align="center"></h1>
-</br>
+
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
     <tr>
