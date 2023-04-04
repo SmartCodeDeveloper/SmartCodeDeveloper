@@ -5,7 +5,7 @@
 
 
 ✅ Web
--  MERN stack, Shopify, Rest API, GraphQL, Mysql, MongDB, PostgreSQL, JS frameworks
+-  MERN stack, Shopify, Rest API, GraphQL, Mysql, MongDB, PostgreSQL, JS frameworks, Python, Selenium
 
 ✅ Mobile
 -  Android, React Native, Flutter
