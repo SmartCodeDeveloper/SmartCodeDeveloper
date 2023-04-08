@@ -5,7 +5,11 @@
 
 
 ✅ Web
--  MERN stack, Shopify, Rest API, GraphQL, Mysql, MongDB, PostgreSQL, JS frameworks, Python, Selenium
+-  MERN stack, Shopify, Rest API, GraphQL, 
+-  Mysql, MongDB, PostgreSQL, SQLite 
+-  Next, Nest, Angluar, Vue, JS frameworks, 
+-  Python, Django, Selenium
+-  ChatGPT, OpenAI API
 
 ✅ Mobile
 -  Android, React Native, Flutter
