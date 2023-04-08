@@ -5,7 +5,7 @@
 
 
 ✅ Web
--  MERN stack, Shopify, Rest API, GraphQL, 
+-  MERN stack, Shopify, Restful API, GraphQL, 
 -  Mysql, MongDB, PostgreSQL, SQLite 
 -  Next, Nest, Angluar, Vue, JS frameworks, 
 -  Python, Django, Selenium
