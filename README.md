@@ -16,7 +16,7 @@
 -  ChatGPT, OpenAI API
 
 ✅ Mobile
--  Android, React Native, Flutter
+-  Android & IOS, React Native, Flutter
 
 ✅ Blockchain
 -  Ethereum, Smart Contract, Solidiity, Web3.js, Truffle, Hardhat.
