@@ -9,8 +9,10 @@
 -  MERN stack, Shopify, Restful API, GraphQL, 
 -  Mysql, MongDB, PostgreSQL, SQLite 
 -  Next, Nest, Angluar, Vue, JS frameworks
+-  GraphQL, Restful API, Apollo server
 -  PHP, Laravel, CodeIgniter
 -  Python, Django, Selenium
+-  Html, CSS, Javascript, Tailwind CSS
 -  ChatGPT, OpenAI API
 
 ✅ Mobile
