@@ -1,12 +1,12 @@
 ## I warmly welcome you!
    - I am a Senior Web & Mobile and Blockchain developer with 5+ years of experience, and have good experience in this field.
-   - I have completed a lot of Ecommerce websites and Company websites using MERN stack, Shopify and JS frameworks.
+   - I have completed a lot of Ecommerce websites and Company websites using MERN stack, Python/Django and JS frameworks.
    - I have good experienced and knowledge in using ChatGPT and OpenAI API.
    - I have specialized the ICO, IDO, DeFi, DEX, NFT minting and marketplace, NFT card and casino games on EVM compatible network like Ethereum, BSC, Polygon and Solana, Near.
 
 
 ✅ Web
--  MERN stack, Shopify, Restful API, GraphQL, 
+-  MERN stack, Restful API, GraphQL, 
 -  Mysql, MongDB, PostgreSQL, SQLite 
 -  Next, Nest, Angluar, Vue, JS frameworks
 -  GraphQL, Restful API, Apollo server
