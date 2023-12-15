@@ -9,6 +9,7 @@
 -  MERN stack, Restful API, GraphQL, 
 -  Mysql, MongDB, PostgreSQL, SQLite 
 -  Next, Nest, Angluar, Vue, JS frameworks
+-  C#, ASP.NET Core, ASP.NET MVC
 -  GraphQL, Restful API, Apollo server
 -  PHP, Laravel, CodeIgniter
 -  Python, Django, Selenium
