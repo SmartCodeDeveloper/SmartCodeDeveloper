@@ -1,7 +1,7 @@
 ## I warmly welcome you!
    - I am a Senior Web & Mobile and Blockchain developer with 8+ years of experience, and have good experience in this field.
    - I have completed a lot of Ecommerce websites and Company websites using MEAN and MERN stack, Python/Django, C#, ASP.NET Core, ASP.NET MVC and JS frameworks.
-   - I have extensive experiences and knowledge in developing AI Voice Chatbot.
+   - I have extensive experiences and knowledge in developing AI Chatbot.
    - I have specialized the ICO, IDO, DeFi, DEX, NFT minting and marketplace, NFT card and casino games on EVM compatible network like Ethereum, BSC, Polygon and Solana, Near.
 
 
